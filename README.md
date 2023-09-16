@@ -34,7 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-### Socials
+### 
+<h2 align="left">Skills</h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
