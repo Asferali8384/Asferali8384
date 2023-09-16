@@ -1,16 +1,16 @@
-###Intro
+###
 
 <h1 align="left">Hi 👋, I'm Asfer</h1>
 
 
 
-###About
+###
 
 <p align="left">About me<br>🌍  I am a Front-End Developer based in Chennai, Tamilnadu.</p>
 
 
 
-###Skills
+###
 
 <h2 align="left">Skills</h2>
 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###Socials
+###
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
