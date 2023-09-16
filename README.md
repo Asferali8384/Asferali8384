@@ -2,7 +2,17 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <p align="left">About me<br>🌍  I am a Front-End Developer based in Chennai, Tamilnadu.</p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
