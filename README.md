@@ -2,13 +2,9 @@
 
 <h1 align="left">Hi 👋, I'm Asfer</h1>
 
-
-
 ###
 
-<p align="left">About me<br>🌍  I am a Front-End Developer based in Chennai, Tamilnadu.</p>
-
-
+<p align="left">About me<br> <br>🌍  I am a Front-End Developer based in Chennai, Tamilnadu.</p>
 
 ###
 
