@@ -35,7 +35,7 @@
 </div>
 
 ### 
-<h2 align="left">Skills</h2>
+<h2 align="left">Socials</h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
